@@ -1,6 +1,5 @@
 name: Greeting from Kwok Chun Yin
-on:push
-
+on: push
 jobs:
   my-job:
     name: My Job
